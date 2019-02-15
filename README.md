@@ -12,5 +12,5 @@ A bootstrap admin panel for showing my skill on bootstrap 4.
 ### Screenshot
 
 
-![Screenshot](/screenshot.png)
+![Screenshot](https://github.com/nerdjfpb/Admin-template-bootstrap/blob/master/screenshot.PNG)
 
