@@ -1,23 +1,16 @@
-# Bootstrap 4 Starter Pack (BETA 4.0.0)
+# Bloggen-Admin-Panel
 
-Includes complete Bootstrap 4.0.0-beta dev environment with gulp and sass
+A bootstrap admin panel for showing my skill on bootstrap 4. 
 
-If you are looking for the alpha6 version [click here](https://github.com/bradtraversy/bs4starter_alpha6)
 
-### Version
+### Live Link
 
-1.0.0
-
-## Install Dependencies
-
-```bash
-npm install 
+```
+* [Bloggen](https://frontendproject5.nerdjfpb.com/) - Admin Panel
 ```
 
-## Compile Sass & Run Dev Server
+### Screenshot
 
-```bash
-npm start
 ```
-
-Files are compiled into /src
+![Screenshot](screenshot.png)
+```
